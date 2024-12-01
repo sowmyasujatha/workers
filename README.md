@@ -1,1 +1,1 @@
-practise github
+practise github <b> git </b>
